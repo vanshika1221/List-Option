@@ -8,4 +8,5 @@ Hint: First convert List[Option[T]] to List[T] (use for expressions for this) an
 
 
 Sample Input: methodName((List(Some(1), Some(2), Some(3), Some(4)), "Addition")
+
 Sample Output: 10
